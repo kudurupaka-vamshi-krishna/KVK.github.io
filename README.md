@@ -1,2 +1,2 @@
-# Kudurupaka Vamshi Krishna.github.io
+# kvamshikrishna.github.io
 Personal website
